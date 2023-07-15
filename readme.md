@@ -60,7 +60,6 @@ await browser.close();
 });
 ```
 
-
 # Contributing
 Explain how users can contribute to your project. Provide guidelines for bug reports, feature requests, and pull requests. Let users know if you have any specific requirements or processes for contributions.
 
@@ -76,6 +75,6 @@ Give credit to any resources, libraries, or individuals whose work you have used
 Provide your contact information so users can reach out to you with questions or feedback.
 
 
-# Disclaimar: 
+# Disclaimer
 
-It's only a personal repo to see how it works. Don't use it for illigal purposes.
+It's only a personal usage. Don't use it for illigal purposes.
