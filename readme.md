@@ -56,20 +56,15 @@ await browser.close();
 });
 ```
 
-# Contributing
-Explain how users can contribute to your project. Provide guidelines for bug reports, feature requests, and pull requests. Let users know if you have any specific requirements or processes for contributions.
 
 # License
-Indicate the license under which your module is released. For example:
-
 This project is licensed under the MIT License.
 
 # Acknowledgments
-Give credit to any resources, libraries, or individuals whose work you have used or who have inspired your module.
+this is basically a port of great job that has been done here: https://github.com/vvanglro/cf-clearance by @vvanglro !
 
 # Contact
-Provide your contact information so users can reach out to you with questions or feedback.
-
+You can email me or make a pull request! I will try to help but I can't guarantee that I can fix everything regarding this repo as it's only a hobby project.
 
 # Disclaimer
 
