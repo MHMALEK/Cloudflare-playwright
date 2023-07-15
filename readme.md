@@ -22,10 +22,6 @@ In the example, we import the necessary modules (playwright and playwright-steal
 
 Please note that you'll need to have Playwright and Playwright Stealth set up and configured properly to use this module.
 
-Feel free to customize the usage instructions and provide any additional information or examples as needed in your README.md file.
-
-Remember to include any relevant installation or setup instructions specific to your module and provide guidance on how users can incorporate the module into their own projects.
-
 
 
 # API Reference
